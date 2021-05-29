@@ -21,5 +21,6 @@
 		<module>TiposClasses</module>
 		<module>Interfaces</module>
 		<module>Lambda</module>
+		<module>Generics</module>
 	</modules>
 </project>
