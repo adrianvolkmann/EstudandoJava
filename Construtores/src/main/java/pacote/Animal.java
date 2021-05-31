@@ -3,11 +3,11 @@ package pacote;
 public class Animal {
 
 	public Animal (String nome){
-		System.out.println("Chamou Animal " + nome);
+		System.out.println("Chamou super " + nome);
 	}
 	
 	public Animal (){
-		System.out.println("Chamou animal");
+		System.out.println("Chamou super sem parametro");
 	}
 	
 	

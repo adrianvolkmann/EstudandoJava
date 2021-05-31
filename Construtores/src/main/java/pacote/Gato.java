@@ -9,8 +9,8 @@ public class Gato extends Animal {
 	public Gato(String nome) {
 		// classe pai nao tem construtor vazio, esse contrutor precisa da chamada do
 		// metodo;
-		super(nome);
-		System.out.println("Chamou Gato " + nome);
+//		super(nome);
+		System.out.println("Gato sem super " + nome);
 	}
 
 	//permite criar contrutor privado
